@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Kanha Biswal</h1>
-<h3 align="center">A passionate from AI AND ML</h3>
+<h1 align="center">Hi 👋, I'm Saloni Mahunta</h1>
+<h3 align="center">A passionate from JAVA Devlopment</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biswalkanha07&label=Profile%20views&color=0e75b6&style=flat" alt="biswalkanha07" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=biswalkanha07" alt="biswalkanha07" /></a> </p>
 
-- 🔭 I’m currently pursuing my My BTech in GIET UNIVERSITY, GUNUPUR *Online OPD system*
+- 🔭 I’m currently pursuing my My BTech in Siksha 'O' Anusandhan University (ITER)  *Online OPD system*
 
 - 🌱 I’m currently learning *Data Structure And Algorithm*
 
-- 📫 How to reach me *mrbiswal456@gmail.com*
+- 📫 How to reach me *salonimahunta78@gmail.com*
 
 - 📄 Know about my experiences [Completed two internship, one was on python developer and another was Data Science](Completed two internship, one was on python developer and another was Data Science)
 
